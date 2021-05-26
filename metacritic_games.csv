@@ -1,4 +1,4 @@
-name,platform,publisher,genre(s),release_date,critic_positive,critic_negative,metascore,user_positive,user_negative,user_score
+name,platform,publisher,genre,release_date,critic_positive,critic_negative,metascore,user_positive,user_negative,user_score
 Command & Conquer,PC,Virgin Interactive,Sci-Fi,"Aug 31, 1995",5,0,94,47,1,8.9
 Full Throttle,PC,LucasArts,Adventure,"Apr 30, 1995",6,0,86,18,0,8.7
 Battle Arena Toshinden,PS,SCEA,Action,"Sep  9, 1995",1,0,69,1,1,5.8
